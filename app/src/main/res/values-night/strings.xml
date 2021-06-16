@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="waktu">Waktu</string>
+    <string name="porsi">Porsi</string>
+    <string name="bahan_bahan">Bahan-Bahan</string>
+    <string name="cara_memasak">Cara Memasak</string>
+    <string name="dapur_betawi_apps">Dapur Betawi Apps</string>
+</resources>
